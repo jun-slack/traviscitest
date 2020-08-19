@@ -2,3 +2,4 @@ language: python
 
 notifications:
   slack: platform-ce:D0Cj8wp4mxARtDrRWHr16DYC
+  webhooks: https://platform-ce.slack.c/services/hooks/travis/wLZVeL05bWmvJreUm2RPNcMo
